@@ -19,3 +19,6 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/schlaya/schlaya/output/github-snake.svg" />
   </picture>
 </p>
+<p align="center">
+ <img src="https://streak-stats.demolab.com?user=schlaya&theme=dark" alt="GitHub Streak" />
+</p>
