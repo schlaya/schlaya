@@ -20,5 +20,5 @@
   </picture>
 </p>
 <p align="center">
- <img src="https://github-readme-streak-stats-eight.vercel.app/?user=schlaya&size_weight=0.5&count_weight=0.5&theme=dark&locale=en&layout=compact" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=schlaya" alt="GitHub Streak" /></a>
 </p>
