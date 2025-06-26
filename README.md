@@ -20,7 +20,7 @@
   </picture>
 </p>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.demolab.com?user=schlaya&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=schlaya&theme=tokyonight" alt="GitHub Streak" />
 </a>
 </p>
 
