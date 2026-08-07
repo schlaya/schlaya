@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Liam Roth</h1>
-<p align="center">A passionate frontend developer</p>
+<h1 align="center">Hi 👋, I'm Liam</h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=schlaya&style=flat-square" alt="Profile Views" /></p>
 <h2 align="center">🚀 Languages and Tools I Use</h2>
 <p align="center"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80" /></a>
